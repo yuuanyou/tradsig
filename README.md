@@ -44,6 +44,22 @@ TradSig 当前 **不对外开源**，不包含任何可运行源码或服务端�
 
 ---
 
+## 文档
+
+- [System Architecture](docs/architecture.md)
+- [Push Notification Flow](docs/push-flow.md)
+- [App Review Notes](docs/app-review-notes.md)
+
+---
+
+## 免责说明
+
+所有展示内容仅用于记录与提示，
+
+不构成任何投资建议或交易指引。
+
+---
+
 ## 相关链接
 
 - 官方网站：https://tradsig.sh.cn  
