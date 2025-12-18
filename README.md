@@ -47,10 +47,10 @@ TradSig 当前 **不对外开源**，不包含任何可运行源码或服务端�
 ## Web Interface
 
 - [Home](docs/web-screenshots/home.png)
-- [Push Notification Flow](docs/push-flow.md)
-- [App Review Notes](docs/app-review-notes.md)
-
----
+- [page-saczce](docs/web-screenshots/page-saczce.png)
+- [page-fgczce](docs/web-screenshots/page-fgczce.png)
+- [record-highlight](docs/web-screenshots/record-highlight.png)
+- [access-denied](docs/web-screenshots/access-denied.png)
 
 ---
 
